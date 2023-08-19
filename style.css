@@ -1,0 +1,41 @@
+html body {
+  background-color: #000;
+  color: white;
+}
+.first {
+  padding: 20px;
+}
+.heading_applicationName {
+  color: #4c4f74;
+  margin-bottom: 20px;
+}
+.image {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.image img {
+  height: 300px !important;
+  width: 300px !important;
+}
+.second {
+  text-align: center;
+  background-color: #575a85;
+  height: 100vh;
+}
+.ipadd {
+  height: 50%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: end;
+}
+
+.btnn {
+  padding: 7px 50px;
+  border: 1px solid #bbbccc;
+  outline: none;
+  background-color: transparent;
+  color: #bbbccc;
+  font-weight: bold;
+}

@@ -1,0 +1,66 @@
+html body {
+  background-color: #000;
+  margin: 0;
+}
+.header {
+  padding: 10px 10px;
+  margin-bottom: 30px;
+}
+.header > h3 {
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+.header h4 {
+  font-size: 20px !important;
+}
+.detail1 {
+  padding: 0 30px 0 20px;
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+}
+#idadd {
+  color: white;
+}
+.map {
+  background-color: #6f7297;
+  height: fit-content;
+  text-align: center;
+  color: #bbbccc;
+  padding: 10px 5px 10px 5px;
+}
+.moreInfo {
+  padding: 20px 20px;
+}
+.moreInfo h3 {
+  color: white;
+  margin-bottom: 40px;
+}
+.moreInfo h4 {
+  color: grey;
+  font-size: 20px;
+}
+.postOffice {
+  text-align: center;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.cardd {
+  width: 640px;
+}
+.postOffice h3 {
+  color: white;
+}
+
+.cardd {
+  background-color: #6f7297;
+  margin-right: 1px;
+  text-align: left;
+  padding: 10px 30px;
+  color: #bbbccc;
+  border-radius: 5px;
+}
